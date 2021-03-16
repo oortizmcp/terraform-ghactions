@@ -23,7 +23,7 @@ jobs:
     env: 
       ARM_SUBSCRIPTION_ID: '953f4cd5-5c36-40a5-be4e-cca2b3216f2c'
       ARM_TENANT_ID: '74f64731-3951-40d7-b992-a22a8b3a2565'
-      ARM_CLIENT_ID: '8c55973b-1746-417e-a6cb-997119e0761c'
+      ARM_CLIENT_ID: 'd732925b-70a3-46cd-abef-418e214c5727'
       ARM_CLIENT_SECRET: ${{ secrets.ARM_CLIENT_SECRET }}
       AZURE_STORAGE: 'oovterraform123'
 
