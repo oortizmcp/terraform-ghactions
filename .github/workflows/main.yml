@@ -54,7 +54,7 @@ jobs:
      # - name: Terraform Apply
       #  run: terraform apply tfplan
         
-      - name: Terraform Destroy
-        run: terraform destroy -lock=false -auto-approve
+      #- name: Terraform Destroy
+       # run: terraform destroy -lock=false -auto-approve
         
 
